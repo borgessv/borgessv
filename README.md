@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitor and I am currently working on my master's dissertation.
-- 👀 I’m interested in aeroelasticity, nonlinear dynamics and scientific machine learning.
+- 👀 I’m interested in geometrically exact structures, aeroelasticity and scientific machine learning.
 - 🌱 I’m currently learning nonlinear beam formulations for modeling highly flexible structures.
 - 💞️ I’m looking to collaborate on new applications of physics-informed neural networks for nonlinear dynamics modeling.
 - 📫 How to reach me: borgessv93@gmail.com
